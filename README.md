@@ -1,1 +1,1 @@
-# Todo App - React | Type-Script
+# Todo App: React | Type-Script
